@@ -38,7 +38,7 @@
 <div align="center">  
   
 </div>
-
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="Git" height="50" /></a>  
 </td></tr></table>  
 
 <br/>  
