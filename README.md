@@ -1,12 +1,15 @@
 ### <div align="center">I'm JunseoPark, majoring in electronic engineering👨‍💻 studying developing skills at SSAFY since 2025 🚀</div>  
   
 
-- My favorite hobby is playing the classical guitar🎶  
-  
+- My favorite hobby is playing the classical guitar🎶
+
+<br/>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=skyJun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+</div>
+
 
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -41,14 +44,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=skyJun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-  
-
-<br/>  
+<br/> 
 
 ## Connect with me  
 <div align="center">
@@ -59,13 +55,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br/>
-  
-
-<br/>  
-
-<div align="center"></div>
 <br />
 
 ----
