@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/105149953?v=4" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm JunseoPark, majoring in electronic engineering👨‍💻 studying developing skills at SSAFY since 2025 🚀</div>  
   
 
@@ -67,21 +62,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=skyJun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=skyJun&&style=flat-square" align="center" />
-</div>  
+<br/>
   
 
 <br/>  
