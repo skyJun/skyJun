@@ -2,7 +2,7 @@
   
 
 - My favorite hobby is playing the classical guitar🎶
-
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/gunopak" width="600" height="300"/></a>
 <br/>
 
 ## Github Stats  
@@ -38,5 +38,3 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/gunopak" width="600" height="300"/></a>
