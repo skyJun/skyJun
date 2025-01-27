@@ -1,7 +1,7 @@
 ### <div align="center">I'm JunseoPark, majoring in electronic engineering👨‍💻 studying developing skills at SSAFY since 2025 🚀</div>  
   
 
-- My favorite hobby is playing the classical guitar🎶
+- My favorite hobby is playing the classical guitar 🎶
 
 <div align="center"> 
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/gunopak" width="600" height="300"/></a>
